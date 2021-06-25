@@ -164,7 +164,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 
 <p align="center">
-	With :heart: by <a href="https://www.ietvit.tech" target="_blank">Team Fourth Dimension, IET-VIT</a>
+	With :heart: by <a href="https://ietvit.tech/" target="_blank">Team Fourth Dimension, IET-VIT</a>
 </p>
 
 
