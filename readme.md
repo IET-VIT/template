@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="177.815482503" height="80">
+    <img src="images/logo.png" alt="Logo" width="266.723223755" height="120">
   </a>
 
   <h3 align="center">project_title</h3>
